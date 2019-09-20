@@ -3,7 +3,15 @@
   <groupId>com.zkobd</groupId>
   <artifactId>diagso</artifactId>
   <versioning>
+<<<<<<< HEAD
     <release>1.015d9</release>
+=======
+<<<<<<< HEAD
+    <release>1.015d8</release>
+=======
+    <release>1.015d7</release>
+>>>>>>> 1ee7b3b7f1e2d5d3fb09ddcec073f08816dca60d
+>>>>>>> 9e63bfee2e74ba20dbae2d5eeefa7b1c3ad3992b
     <versions>
       <version>1.0.0</version>
       <version>1.015</version>
@@ -12,8 +20,20 @@
       <version>1.015d3</version>
       <version>1.015d4</version>
       <version>1.015d6</version>
+<<<<<<< HEAD
       <version>1.015d9</version>
     </versions>
     <lastUpdated>20190920031646</lastUpdated>
+=======
+<<<<<<< HEAD
+      <version>1.015d8</version>
+    </versions>
+    <lastUpdated>20190916093528</lastUpdated>
+=======
+      <version>1.015d7</version>
+    </versions>
+    <lastUpdated>20190916092929</lastUpdated>
+>>>>>>> 1ee7b3b7f1e2d5d3fb09ddcec073f08816dca60d
+>>>>>>> 9e63bfee2e74ba20dbae2d5eeefa7b1c3ad3992b
   </versioning>
 </metadata>
