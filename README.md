@@ -4,3 +4,7 @@
 2.　提交的测试版本最好不要超过5个，例如：1.015d1,1.015d2,1.015d3,1.015d4,1.015d5.
 
 3.　针对每一次提交的版本写好修改或者优化的内容，便于客户决定是否更新。
+
+##使用方式
+
+在项目的build.gradle添加：```maven { url "https://raw.githubusercontent.com/zdeps/diag/master" }```;在module的build.gradle里面添加``` api 'com.zkobd:diagso:1.015d9'```
